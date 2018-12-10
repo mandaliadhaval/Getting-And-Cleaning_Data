@@ -3,8 +3,8 @@ Coursera - Johns Hopkins Course - Getting &amp; Cleaning Data
 
 # Getting and Cleaning Data Project
 Author: Dhaval Mandalia <br />
-Data & Information Source: [Link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-[Link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+Data & Information Source: [Information](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+[Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 ###Submission Criteria:
 ####1. The submitted data set is tidy. - (Refer: Tidydata.txt)
@@ -14,3 +14,5 @@ Data & Information Source: [Link](http://archive.ics.uci.edu/ml/datasets/Human+A
 ####5. The work submitted for this project is the work of the student who submitted it. - (Acknowledged)
 
 
+Tidy Data:
+https://github.com/mandaliadhaval/Getting-And-Cleaning_Data/blob/master/Tidydata_Image.PNG?raw=true
