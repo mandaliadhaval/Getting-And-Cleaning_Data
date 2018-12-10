@@ -14,4 +14,4 @@ Data & Information Source: [Information](http://archive.ics.uci.edu/ml/datasets/
 ####5. The work submitted for this project is the work of the student who submitted it. - (Acknowledged)<br>
 
 
-![Tidy Data](ttps://github.com/mandaliadhaval/Getting-And-Cleaning_Data/blob/master/Tidydata_Image.PNG?raw=true)
+![Tidy Data](ttps://github.com/mandaliadhaval/Getting-And-Cleaning_Data/blob/master/Tidydata_Image.PNG)
