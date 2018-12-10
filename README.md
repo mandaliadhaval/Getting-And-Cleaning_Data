@@ -6,7 +6,7 @@ Author: Dhaval Mandalia <br />
 Data & Information Source: [Information](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 [Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-###Submission Criteria:
+###Submission Criteria:<br>
 ####1. The submitted data set is tidy. - (Refer: Tidydata.txt)
 ####2. The Github repo contains the required scripts - (Scripts uploaded to repo)
 ####3. GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information. - (Refer: Codebook.md)
